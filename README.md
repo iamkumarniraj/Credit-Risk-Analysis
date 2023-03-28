@@ -1,6 +1,9 @@
 UCI Credit Card Dataset
+
 Generalized Concepts For the Project
+
 This dataset contains information about credit card holders, including their demographics, credit history, and payment records. The data was collected from credit card holders in Taiwan from April 2005 to September 2005. The goal of this project is to predict whether a credit card holder will default on their payment based on their demographic and credit history.
+
 
 The project will consist of four main stages:
 
@@ -27,6 +30,7 @@ Several models have been tested, including logistic regression, decision trees, 
 
 Finalizing Model for the Predictions of Defaulter
 The final stage involves training the selected model on the entire dataset and using it to predict default for new credit card holders. We selected Decision Tree Classifier on the basis of it's accuracy and other metrics like precision and recall and can be used to predict default in the future.
+
 
 Decision Tree model is finalized, it can be used to identify credit card holders who are at high risk of defaulting on their payments. This information can be used by credit card companies to manage their risk and avoid losses due to defaults.
 
